@@ -287,11 +287,6 @@ background-color: #4D5AE5;
 transition: transform 250ms linear;
 }
 
-.team-img,
-.portfolio-img {
-    /* margin-bottom: 32px; */
-}
-
 .team-item-list {
     background-color: #FFFFFF;
     border-radius: 0px 0px 4px 4px;
